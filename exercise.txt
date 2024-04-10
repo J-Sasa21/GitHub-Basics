@@ -1,0 +1,8 @@
+1. Terminal is a command line interface that allows the user to navigate their machines using text based commands
+
+2. Git is a version control system and GitHub is a Website that is utilized by devolopers in order to share code and work on various projects.
+
+3.  1.Go to the GitHub repository you want to fork.
+    2.Click the Fork button in the top right corner of the repository's page. 
+    3.clone this forked repository to your local machine using the git clone command followed by the URL of your forked repository.
+    4.After making changes to the code or files in your local repository, you can push these changes to your forked repository on GitHub using the git push command.
